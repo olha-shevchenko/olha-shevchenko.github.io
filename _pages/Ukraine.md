@@ -18,6 +18,6 @@ Today, over 10 years after the beginning of the war and 2 years after the beginn
 
 # Glory to Ukraine! Слава Україні!
 
-%% Every day Russia shells residential areas, targets critical infrastructure and commits numerous war crimes. 
+<!--- Every day Russia shells residential areas, targets critical infrastructure and commits numerous war crimes.  --->
 
 
